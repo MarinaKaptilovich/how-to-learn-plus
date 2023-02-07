@@ -1,0 +1,6 @@
+@import url(./_rotation/kaufman__trangle_rotation.css);
+
+.kaufman__trangle {
+    position: absolute;
+    right: -210px;
+}
