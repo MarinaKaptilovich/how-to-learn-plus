@@ -1,6 +1,9 @@
-@import url(./_rotation/kaufman__trangle_rotation.css);
-
 .kaufman__trangle {
     position: absolute;
+    width: 877px;
+    height: 877px;
     right: -210px;
+    top: 0;
+    background-image: url(../../../images/kaufman-triangle.svg);
+    background-size: cover;
 }

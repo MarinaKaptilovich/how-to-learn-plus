@@ -1,6 +1,5 @@
 .video__iframes {
     padding-top: 50px;
     position: relative;
-    top: 25px;
-    z-index: 1;
+    margin: 0;
 }
